@@ -41,10 +41,10 @@ The rostral aspect of the dorsal raphe is further divided into interfascicular, 
 </tbody>
 </table>
 
-<p><a href="http://www.ocduk.org/siteimages/OCD/neurotransmitter.jpg" target="_blank"><img src="http://www.ocduk.org/siteimages/OCD/neurotransmitter.jpg"</a></p>
+  <p><img src="http://www.ocduk.org/siteimages/OCD/neurotransmitter.jpg"></p>
 
 
-<p><a href="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687" target="_blank"><img src="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687"</a></p>
+<p><img src="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687"></p>
 
 
 __________________________________________________________________________________________________________________
@@ -70,7 +70,7 @@ It is usually to think that serotonin influences on mood, but it's important to 
 
 Serotonin transmission from both the caudal raphe nuclei and rostal raphe nuclei is reduced in patients with depression compared with non-depressed controls. Increasing the levels of serotonin in these pathways, by reducing serotonin reuptake and hence increasing serotonin function, is one of the therapeutic approaches to treating depression. [7]
 
-<p><a href="https://www.cnsforum.com/upload/imagebank/large/Neuro_path_SN_DPN.png" target="_blank"><img src="https://www.cnsforum.com/upload/imagebank/large/Neuro_path_SN_DPN.png"</a></p>
+  <p><img src="https://www.cnsforum.com/upload/imagebank/large/Neuro_path_SN_DPN.png"></p>
 </li>
 
 __________________________________________________________________________________________________________________
@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 · Serotonin - plays the role of neurotransmitter in the CNS. Serotonergic neurons are grouped in the brainstem: in the pons and in the cores of the joint. Descending projections go to the spinal cord from the bridge, raphe nuclei neurons give ascending projection to the cerebellum, to the limbic system, to basal ganglia, to cortex. At the same time, the neurons of the dorsal and medial raphe nuclei give axons, which differ morphologically electrophysiologically, target of innervation and sensitivity to certain neurotoxic agents, such as, methamphetamine.
 
-<p><a href="https://camo.githubusercontent.com/d3b25bf4ee477c6a7e89d8b6321a5c299683d53f/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f382f38382f446f70616d696e6573657261746f6e696e2e706e67" target="_blank"><img src="https://camo.githubusercontent.com/d3b25bf4ee477c6a7e89d8b6321a5c299683d53f/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f382f38382f446f70616d696e6573657261746f6e696e2e706e67"</a></p>
+  <p><img src="https://camo.githubusercontent.com/d3b25bf4ee477c6a7e89d8b6321a5c299683d53f/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f382f38382f446f70616d696e6573657261746f6e696e2e706e67"></p>
 
 
 
@@ -139,7 +139,7 @@ ________________________________________________________________________________
 
 <strong> Serotonin in Basal Ganglia  </strong>
 
-<p><a href="https://pp.vk.me/c623428/v623428856/3537b/Xz0IKa9vryE.jpg"><img src="https://pp.vk.me/c623428/v623428856/3537b/Xz0IKa9vryE.jpg"</a></p>
+  <p><img src="https://pp.vk.me/c623428/v623428856/3537b/Xz0IKa9vryE.jpg"></p>
 
 <strong> The influence of the DRN on the direct and indirect pathways  </strong>
 
