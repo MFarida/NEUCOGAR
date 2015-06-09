@@ -47,8 +47,6 @@ The rostral aspect of the dorsal raphe is further divided into interfascicular, 
 <p><a href="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687" target="_blank"><img src="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687"</a></p>
 
 
-__________________________________________________________________________________________________________________
-
 <strong> Serotonin functions </strong>
 
 Serotonin is widely believed to play a key role in the central nervous system, as well as in the general functioning of the body and in particular the GI tract. But, it is should be mentioned, that serotonin cannot cross the blood-brain barrier, therefore, serotonin that is used inside the brain must be produced within it. Studies have found links between serotonin and bone metabolism, breast milk production, liver regeneration and cell division.
