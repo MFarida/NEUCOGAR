@@ -41,10 +41,10 @@ The rostral aspect of the dorsal raphe is further divided into interfascicular, 
 </tbody>
 </table>
 
-<p><a href="http://www.ocduk.org/siteimages/OCD/neurotransmitter.jpg" target="_blank"><img src="http://www.ocduk.org/siteimages/OCD/neurotransmitter.jpg"</a></p>
+<p><img src="http://www.ocduk.org/siteimages/OCD/neurotransmitter.jpg"></p>
 
 
-<p><a href="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687" target="_blank"><img src="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687"</a></p>
+<p><img src="http://image.slidesharecdn.com/original-advancesintheartandscienceofdepression-120419192523-phpapp01/95/dr-shakirs-ctf-presentation-depression-treatment-34-728.jpg?cb=1334863687"></p>
 
 
 __________________________________________________________________________________________________________________
@@ -70,7 +70,7 @@ It is usually to think that serotonin influences on mood, but it's important to 
 
 Serotonin transmission from both the caudal raphe nuclei and rostal raphe nuclei is reduced in patients with depression compared with non-depressed controls. Increasing the levels of serotonin in these pathways, by reducing serotonin reuptake and hence increasing serotonin function, is one of the therapeutic approaches to treating depression. [7]
 
-<p><a href="https://www.cnsforum.com/upload/imagebank/large/Neuro_path_SN_DPN.png" target="_blank"><img src="https://www.cnsforum.com/upload/imagebank/large/Neuro_path_SN_DPN.png"</a></p>
+<p><img src="https://www.cnsforum.com/upload/imagebank/large/Neuro_path_SN_DPN.png"></p>
 </li>
 
 __________________________________________________________________________________________________________________
@@ -78,9 +78,9 @@ ________________________________________________________________________________
 <strong> Serotonin pathway </strong> 
 
 
-· Serotonin - plays the role of neurotransmitter in the CNS. Serotonergic neurons are grouped in the brainstem: in the pons and in the cores of the joint. Descending projections go to the spinal cord from the bridge, raphe nuclei neurons give ascending projection to the cerebellum, to the limbic system, to basal ganglia, to cortex. At the same time, the neurons of the dorsal and medial raphe nuclei give axons, which differ morphologically electrophysiologically, target of innervation and sensitivity to certain neurotoxic agents, such as, methamphetamine.
+Serotonin - plays the role of neurotransmitter in the CNS. Serotonergic neurons are grouped in the brainstem: in the pons and in the cores of the joint. Descending projections go to the spinal cord from the bridge, raphe nuclei neurons give ascending projection to the cerebellum, to the limbic system, to basal ganglia, to cortex. At the same time, the neurons of the dorsal and medial raphe nuclei give axons, which differ morphologically electrophysiologically, target of innervation and sensitivity to certain neurotoxic agents, such as, methamphetamine.
 
-<p><a href="https://camo.githubusercontent.com/d3b25bf4ee477c6a7e89d8b6321a5c299683d53f/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f382f38382f446f70616d696e6573657261746f6e696e2e706e67" target="_blank"><img src="https://camo.githubusercontent.com/d3b25bf4ee477c6a7e89d8b6321a5c299683d53f/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f382f38382f446f70616d696e6573657261746f6e696e2e706e67"</a></p>
+<p><img src="https://camo.githubusercontent.com/d3b25bf4ee477c6a7e89d8b6321a5c299683d53f/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f382f38382f446f70616d696e6573657261746f6e696e2e706e67"></p>
 
 
 
@@ -94,52 +94,57 @@ Because serotonin also modulates NE  secretion, reduce levels are associated  wi
 
 ______________________________________________________
 
-Serotonin is released as neurotransmitter but also released non-synoptically through some axon terminals. Neurotransmitter pathways can be consolidated into 3 major paths. All paths emerge from same set of neurons in the Raphe region of the brainstem, a group of nuclei along midline of midbrain, pons and medulla.
+Serotonin is released as neurotransmitter but also released non-synoptically through some axon terminals. Neurotransmitter pathways can be consolidated into 3 major paths. All paths emerge from same set of neurons in the Raphe region of the brainstem, a group of nuclei along midline of midbrain, pons and medulla.
 
-<u>Caudal pathway</u> (from Raphe nuclei to medulla and spinal cord):
+<u>Caudal pathway</u> 
+(from Raphe nuclei to medulla and spinal cord):
 
 - Uses mainly 5HT1 receptors "slow excitation”;
-- Causes contraction or uterine muscles cramps;
+- Causes contraction or uterine muscles cramps;
 - Causes some contraction of blood vessel walls" blood pressure”;
-- Causes mild motor neuron excitation.;
-- Stimulates release of endorphins that then inhibit pain messages.;
-- 5HT3 receptors in area postrema trigger vomiting.
+- Causes mild motor neuron excitation;
+- Stimulates release of endorphins that then inhibit pain messages;
+- 5HT3 receptors in area postrema trigger vomiting.
 
-
+<p><img src="https://pp.vk.me/c623822/v623822440/328b1/Ksmw98y3FRs.jpg"></p>
 ___________________________
 
-<u>Middle pathway</u> (from Raphe neurons to cerebral cortex and basal ganglia):
+<u>Middle pathway</u> 
+(from Raphe neurons to cerebral cortex, cerebellum, basal ganglia):
 
-- Goes to cortex along with NE axons.;
+- Goes to cortex along with NE axons;
 - Goes to basal ganglia along with DA & ACh neurons;
 - 5HT2 “slow excitation” receptors;
 - Serotonin induces positive mood and affect cortex;
 - “This is the system where SSRIs work by inhibiting the transporter protein necessary for serotonin reuptake”.
 
+<p><img src="https://pp.vk.me/c623822/v623822440/328b9/Rk7ZB6s2MgY.jpg"></p>
 ___________________________
 
 <u>Rostral pathway</u> (from Raphe nuclei to 5 areas):
 Uses 5HT1 “slow inhibition” &5HT2 “slow excitation”
 
 A. Raphe nuclei within:
-within Raphe,there are autoreceptors(5HT1-self inhibit)
+within Raphe,there are autoreceptors(5HT1-self inhibit)
 
 B. Raphe to sensory cortex:
-Sensory cortex-particularly visual perception-5HT2 relevant to hallucinogens (LSD, psilocybin mushrooms)
+Sensory cortex-particularly visual perception-5HT2 relevant to hallucinogens (LSD, psilocybin mushrooms)
 
 C. Raphe to limbic system:
-Limbic system “Pleasure & anxiety” slow inhibition at 5HT1 receptors.
+Limbic system “Pleasure & anxiety” slow inhibition at 5HT1 receptors.
 
-D. Raphe to hypothalamus and thalamus:
-Uses 5HT1 receptors in thermoregulation.Ecstasy causes hyperthermia through here.
+D. Raphe to hypothalamus and thalamus:
+Uses 5HT1 receptors in thermoregulation.Ecstasy causes hyperthermia through here.
 
 E. Raphe to suprachiasmatic nucleus:
-Uses 5 HT1.Important in sleep/wakefulness.Serotonin induces sleep-inject into brain-sleep occurs. Inhibit serotonin (by PCPA, inhibits Tryptophan hydroxylase and production of serotonin); no sleep and there is an increase in activity. But other neurotransmitter are also important in sleep. [6]
+Uses 5 HT1. Important in sleep/wakefulness. Serotonin induces sleep-inject into brain-sleep occurs. Inhibit serotonin (by PCPA, inhibits Tryptophan hydroxylase and production of serotonin); no sleep and there is an increase in activity. But other neurotransmitter are also important in sleep. [6]
+
+<p><img src="https://pp.vk.me/c623822/v623822440/328c1/pHqZxPIaxIc.jpg"></p>
 __________________________________________________________________________________________________________________
 
 <strong> Serotonin in Basal Ganglia  </strong>
 
-<p><a href="https://pp.vk.me/c623428/v623428856/3537b/Xz0IKa9vryE.jpg"><img src="https://pp.vk.me/c623428/v623428856/3537b/Xz0IKa9vryE.jpg"</a></p>
+<p><img src="https://pp.vk.me/c623428/v623428856/3537b/Xz0IKa9vryE.jpg"></p>
 
 <strong> The influence of the DRN on the direct and indirect pathways  </strong>
 
